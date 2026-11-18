@@ -1,0 +1,54 @@
+{
+    "version": "0.0.113",
+    "plot_id": "6482ec4a-e329-11f1-8cb7-4ab1a484d6cc",
+    "output_directory": "/Users/luna/Desktop/week11/ImageGenre_Pilot_PixPlot_01/output",
+    "layouts": {
+        "umap": {
+            "variants": [
+                {
+                    "n_neighbors": 15,
+                    "min_dist": 0.01,
+                    "layout": "/Users/luna/Desktop/week11/ImageGenre_Pilot_PixPlot_01/output/data/layouts/umap-6482ec4a-e329-11f1-8cb7-4ab1a484d6cc.json",
+                    "jittered": "/Users/luna/Desktop/week11/ImageGenre_Pilot_PixPlot_01/output/data/layouts/umap-jittered-6482ec4a-e329-11f1-8cb7-4ab1a484d6cc.json"
+                }
+            ]
+        },
+        "alphabetic": {
+            "layout": "/Users/luna/Desktop/week11/ImageGenre_Pilot_PixPlot_01/output/data/layouts/grid-6482ec4a-e329-11f1-8cb7-4ab1a484d6cc.json"
+        },
+        "grid": {
+            "layout": "/Users/luna/Desktop/week11/ImageGenre_Pilot_PixPlot_01/output/data/layouts/rasterfairy-6482ec4a-e329-11f1-8cb7-4ab1a484d6cc.json"
+        },
+        "categorical": {
+            "layout": "/Users/luna/Desktop/week11/ImageGenre_Pilot_PixPlot_01/output/data/layouts/categorical-6482ec4a-e329-11f1-8cb7-4ab1a484d6cc.json",
+            "labels": "/Users/luna/Desktop/week11/ImageGenre_Pilot_PixPlot_01/output/data/layouts/categorical-labels-6482ec4a-e329-11f1-8cb7-4ab1a484d6cc.json"
+        },
+        "date": false,
+        "geographic": null,
+        "custom": null
+    },
+    "initial_layout": "umap",
+    "point_sizes": {
+        "min": 0,
+        "grid": 0.125,
+        "max": 0.15,
+        "scatter": 0.025,
+        "initial": 0.025,
+        "categorical": 0.075,
+        "geographic": 0.003125
+    },
+    "imagelist": "/Users/luna/Desktop/week11/ImageGenre_Pilot_PixPlot_01/output/data/imagelists/imagelist-6482ec4a-e329-11f1-8cb7-4ab1a484d6cc.json",
+    "atlas_dir": "/Users/luna/Desktop/week11/ImageGenre_Pilot_PixPlot_01/output/data/atlases/6482ec4a-e329-11f1-8cb7-4ab1a484d6cc",
+    "metadata": true,
+    "default_hotspots": "/Users/luna/Desktop/week11/ImageGenre_Pilot_PixPlot_01/output/data/hotspots/hotspot-6482ec4a-e329-11f1-8cb7-4ab1a484d6cc.json",
+    "custom_hotspots": "/Users/luna/Desktop/week11/ImageGenre_Pilot_PixPlot_01/output/data/hotspots/user_hotspots.json",
+    "gzipped": false,
+    "config": {
+        "sizes": {
+            "atlas": 2048,
+            "cell": 32,
+            "lod": 128
+        }
+    },
+    "creation_date": "18-November-2026-16:24:28"
+}
